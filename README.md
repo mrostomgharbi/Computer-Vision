@@ -1,2 +1,2 @@
 # Computer-Vision
-Different computer vision projects that are important to know. 
+Different amazing computer vision projects that I've worked on. 
